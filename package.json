@@ -1,0 +1,25 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "my very first program",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natewilcox/helloWorld.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Nathan Wilcox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natewilcox/helloWorld/issues"
+  },
+  "homepage": "https://github.com/natewilcox/helloWorld#readme",
+  "dependencies": {
+    "ts-node": "^10.8.2"
+  }
+}
